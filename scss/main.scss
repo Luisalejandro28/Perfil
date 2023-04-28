@@ -62,6 +62,7 @@ section{
 a, ul, li{
     text-decoration: none;
     list-style: none;
+    color: #000;
 }
 .talk1 {
     display: flex;
@@ -131,8 +132,7 @@ h2 , h3{
   flex-direction: row;
   justify-content: space-evenly;
   align-items: center;
-  background-color: #5B8FB9;
-  color: #000;
+  background-color: #A5C9CA;
 }
 .contact1{
   display: flex;
