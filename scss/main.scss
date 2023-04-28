@@ -161,8 +161,11 @@ footer, header{
     height: 90px;
 }
 /*COLOR DEL FOOTER Y LA SECCION CONTACTO*/
-footer, #contact{
+footer{
     background-color: #CBE4DE;
+}
+#contact{
+  background-color: #5B8FB9;
 }
 
 /*Estilado del nombre y titulo*/
